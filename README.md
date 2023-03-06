@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sithusharma
-- 👀 I’m interested in furthering my knowledge in CS through research and internship opportunities.
-- 🌱 I’m currently learning basic OOP concepts in Java and Python as well as learning to create graphical interfaces in HTML and CSS.
-- 💞️ I’m looking to collaborate on a project utilizing my knowledge in Java like a Tournament Simulation or furthermore.
-- 📫 How to reach me --> Phone: 980-328-6913.  Email: sithusharma@vt.edu
+TicTacToe:
+The first tic tac toe java file provides my draft for the tic tac toe project which features a console based game rather than a GUI. This console based game also does not have computer playing functionality.
 
-<!---
-sithusharma/sithusharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+TicTacToeGUI:
+This game provides a user interface through java swing and allows users to interact with a tic tac toe board. The game provides two options through multiplayer option as well as a option to play a computer. 
